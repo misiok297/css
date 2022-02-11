@@ -1,0 +1,22 @@
+p
+{
+color: red;
+font-size: 22px;
+}
+
+
+p#gruby
+{
+color: green;
+font-size: 17px;
+font-family:arial ;
+font-style: b;
+}
+
+
+#dlawszystkich
+{
+color:yellow;	
+font-size: 10px;	
+	font-family:arial ;
+}
